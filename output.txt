@@ -1,0 +1,15 @@
+1. Introduction
+	This assignment will test your knowledge on File Handling.
+2. Objective
+	This assignment will help you to master the following concepts:
+	> File Reading and Writing
+3. Prerequisites
+	Not applicable.
+4. Associated Data Files
+	Any Text File for reading from it.
+5. Problem Statement
+	Write a program for file copy.
+6. Expected Output
+	Destination file should have same contents as Source file.
+7. Approximate Time to Complete Task
+	30 min
